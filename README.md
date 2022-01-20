@@ -1,0 +1,5 @@
+- 👋 Hi, I’m easyhyun00
+- 👀 I'm a college student.
+- 🌱 I'm interested in web.
+- 💞️ I'm still a beginner, but I'll do my best.
+- 📫 I want to be a great backend developer in the future.
