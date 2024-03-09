@@ -1,8 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=d3ffce&fontSize=50&text=Welcome~🖐️&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=d3ffce&fontSize=50&text=Welcome~☘️&animation=fadeIn)
 
-# EasyHyun00☘️
+# easyhyun00 ☘️
 
-**프론트엔드 개발자👩‍💻 지망생**
+**프론트엔드 개발자👩‍💻**
+
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=easyhyun00&hide=stars,contribs&show_icons=true&theme=buefy)](https://github.com/easyhyun00/github-readme-stats)
+
 
 <div align="center">
 
