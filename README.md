@@ -2,12 +2,15 @@
 
 # easyhyun00 ☘️
 
+<div align="center">
+
 **프론트엔드 개발자👩‍💻**
 
 [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=easyhyun00&hide=stars,contribs&show_icons=true&theme=buefy)](https://github.com/easyhyun00/github-readme-stats)
 
+</div>
 
-<div align="center">
+<!-- <div align="center">
 
 ## 💻 STACKS
 
@@ -38,4 +41,4 @@
 <br />
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white"/>
 
-</div>
+</div> -->
