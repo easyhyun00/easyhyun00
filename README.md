@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=d3ffce&fontSize=50&text=Welcome~☘️&animation=fadeIn) -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E59EFF,100:9EF0FF&text=Welcome%20to%20My%20GitHub%20☘️&animation=fadeIn&fontSize=35&fontAlignY=40&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E59EFF,100:9EF0FF&text=Welcome~☘️&animation=fadeIn&fontSize=45&fontAlignY=40&height=250)
 
 # easyhyun00 ☘️
 
