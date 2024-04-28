@@ -6,7 +6,7 @@
 
 <div align="center">
 
-**프론트엔드 개발자👩‍💻**
+**FE👩‍💻**
 
 [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=easyhyun00&hide=stars,contribs&show_icons=true&theme=buefy)](https://github.com/easyhyun00/github-readme-stats)
 
