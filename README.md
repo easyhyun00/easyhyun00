@@ -8,7 +8,7 @@
 
 **FE👩‍💻**
 
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=easyhyun00&hide=stars,contribs&show_icons=true&theme=buefy)](https://github.com/easyhyun00/github-readme-stats)
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=easyhyun00&hide=stars,contribs&show_icons=true&theme=buefy&count_private=true)](https://github.com/easyhyun00/github-readme-stats)
 
 </div>
 
