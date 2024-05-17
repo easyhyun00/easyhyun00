@@ -16,7 +16,7 @@
 
 🎓 Bachelor of Engineering in Embedded Systems
 
-👩🏻‍💻 Aspiring **Web Front-End Developer**
+👩🏻‍💻 Preparing for a job as a **Web Front-End Developer**
 
 📘 Currently, studying **Web Front-End Development**
 
