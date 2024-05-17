@@ -1,14 +1,28 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=d3ffce&fontSize=50&text=Welcome~☘️&animation=fadeIn) -->
+<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E59EFF,100:9EF0FF&text=Welcome~☘️&animation=fadeIn&fontSize=45&fontAlignY=40&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E59EFF,100:9EF0FF&animation=fadeIn&height=100)
+<img width="400" src="https://github.com/easyhyun00/easyhyun00/assets/98106371/ac39ade0-b36d-483c-8020-988b12463ed7" />
 
-# easyhyun00 ☘️
+</div>
+
+<br>
+
+
+# About Me 🤗
+
+🎓 Bachelor of Engineering in Embedded Systems
+
+👩🏻‍💻 Aspiring **Web Front-End Developer**
+
+📘 Currently, studying **Web Front-End Development**
+
+💪 A developer who always studies hard
+
+💗 A developer who enjoys coding
 
 <div align="center">
 
-**FE👩‍💻**
-
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=easyhyun00&hide=stars,contribs&show_icons=true&theme=buefy&count_private=true)](https://github.com/easyhyun00/github-readme-stats)
+[![easyhyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=easyhyun00&hide=stars,contribs&show_icons=true&theme=buefy&count_private=true)](https://github.com/easyhyun00/github-readme-stats)
 
 </div>
 
