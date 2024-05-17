@@ -1,7 +1,11 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:E59EFF,100:9EF0FF&animation=fadeIn&height=100)
-<img width="400" src="https://github.com/easyhyun00/easyhyun00/assets/98106371/ac39ade0-b36d-483c-8020-988b12463ed7" />
+<img align="center" width="400" src="https://github.com/easyhyun00/easyhyun00/assets/98106371/ac39ade0-b36d-483c-8020-988b12463ed7" />
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=easyhyun00&hide=stars,contribs&show_icons=true&theme=buefy&count_private=true" />
+</div>
+
 
 </div>
 
@@ -22,7 +26,6 @@
 
 <div align="center">
 
-[![easyhyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=easyhyun00&hide=stars,contribs&show_icons=true&theme=buefy&count_private=true)](https://github.com/easyhyun00/github-readme-stats)
 
 </div>
 
