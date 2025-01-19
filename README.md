@@ -14,15 +14,15 @@
 
 # About Me 🤗
 
-🎓 Bachelor of Engineering in Embedded Systems
+🎓 Bachelor of Engineering in Embedded Systems.
 
-👩🏻‍💻 Preparing for a job as a **Web Front-End Developer**
+👩🏻‍💻 Preparing for a job as a **Web Front-End Developer**.
 
-📘 Currently, studying **Web Front-End Development**
+📘 Currently, studying **Web Front-End Development**.
 
-💪 A developer who always studies hard
+💪 A developer who always studies hard.
 
-💗 A developer who enjoys coding
+💗 A developer who enjoys coding.
 
 <br>
 
